@@ -1,0 +1,5 @@
+slides
+venv
+.venv
+__pycache__
+applesoft_basic.txt
